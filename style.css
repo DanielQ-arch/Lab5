@@ -21,8 +21,9 @@
 }
 
 .border-box{
-    border: 2px;
+    border: 2px solid;
     border-color: black;
+    
 }
 
 .rounded-border{
